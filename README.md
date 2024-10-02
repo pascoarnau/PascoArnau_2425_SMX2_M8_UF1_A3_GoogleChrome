@@ -9,5 +9,6 @@ Repositorio Presentación Google Chrome
 - Chrome está basado en Chromium, un proyecto de código abierto que utiliza el motor de renderizado Blink (originalmente basado en WebKit, al igual que Safari).
 + Google introdujo características innovadoras, como la separación de procesos por pestaña, lo que mejora la estabilidad y seguridad del navegador.
 
-<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/edit/main/README.md">
+<img src="https://github.com/pascoarnau/PascoArnau_2425_SMX2_M8_UF1_A2/edit/main/README.md" alt="ftogoogle" width="300">
+
 
